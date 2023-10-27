@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as WebView } from \"react-native-web/dist/exports/WebView\";","map":{"version":3,"names":[],"sources":["/Users/zuyax/Developer/rn-starter/node_modules/expo/src/WebView.web.ts"],"sourcesContent":["export { WebView } from 'react-native';\n"],"mappings":""},"metadata":{},"sourceType":"module","externalDependencies":[]}

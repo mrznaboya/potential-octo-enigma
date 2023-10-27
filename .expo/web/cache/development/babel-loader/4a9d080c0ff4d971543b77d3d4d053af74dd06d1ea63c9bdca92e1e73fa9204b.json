@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as SQLite } from \"./SQLite\";","map":{"version":3,"names":["default","SQLite"],"sources":["/Users/zuyax/Developer/rn-starter/node_modules/expo-sqlite/src/index.ts"],"sourcesContent":[" export { default as SQLite } from './SQLite';\n"],"mappings":"AAAC,SAASA,OAAO,IAAIC,MAAM"},"metadata":{},"sourceType":"module","externalDependencies":[]}
