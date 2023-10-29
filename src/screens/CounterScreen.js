@@ -15,7 +15,7 @@ const CounterScreen = () => {
           //   counter++;
           // counter = counter + 1;
           setCounter(counter + 1);
-          //   console.log(counter);
+          // console.log(counter);
         }}
       />
       <Button
@@ -33,6 +33,6 @@ const CounterScreen = () => {
   );
 };
 
-const styles = StyleSheet.create();
+const styles = StyleSheet.create({});
 
 export default CounterScreen;
